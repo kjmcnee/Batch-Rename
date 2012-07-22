@@ -1,0 +1,6 @@
+This script can be used to rename files in a directory with a given base name and a sequence number.
+
+Note that the script takes the top Finder window as the directory with the files to rename. Also note that all files in this directory will be renamed.
+
+For example:
+Say we have DSC0001.jpg, DSC0002.jpg, … , DSC0255.jpg in a directory and we want these to be renamed to Vacation 001.jpg, Vacation 002.jpg, … , Vacation 255.jpg. First, we open the directory with Finder, and then we run the script. Given the new name "Vacation", the script renames the files as desired.
